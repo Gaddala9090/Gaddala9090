@@ -21,10 +21,9 @@ I design and ship production AI systems — LLM apps, RAG pipelines, and MLOps p
 
 **Featured Projects** 
 - 🤖 [enterprise-rag-assistant](https://github.com/Gaddala9090/enterprise-rag-assistant) — Document Q&A system using LangChain + vector search, with retrieval-quality evaluation
-- ⚙️ [mlops-pipeline-demo](#) — End-to-end training → deployment → monitoring pipeline with MLflow, Docker, Kubernetes
-- 👁️ [vision-defect-detector](#) — Object detection with YOLO + evaluation metrics
-- 🔎 [explainable-risk-model](#) — Risk-prediction model with SHAP/LIME interpretability dashboard
-
+- ⚙️ [mlops-pipeline-demo](https://github.com/Gaddala9090/mlops-pipeline-demo) — End-to-end training → deployment → monitoring pipeline with MLflow, Docker, Kubernetes
+   - 👁️ vision-defect-detector *(coming soon)* — Object detection with YOLO + evaluation metrics
+   - 🔎 explainable-risk-model *(coming soon)* — Risk-prediction model with SHAP/LIME interpretability dashboard
 **Certifications:** AWS Certified Machine Learning – Specialty · Google Professional Machine Learning Engineer
 
 📫 Reach me: jeevanconnects10@gmail.com
