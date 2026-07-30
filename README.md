@@ -20,7 +20,7 @@ I design and ship production AI systems — LLM apps, RAG pipelines, and MLOps p
 ![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 
 **Featured Projects** *(update links once you make them — Step 5 below)*
-- 🤖 [enterprise-rag-assistant](#) — Document Q&A system using LangChain + vector search, with retrieval-quality evaluation
+- 🤖 [enterprise-rag-assistant](https://github.com/Gaddala9090/enterprise-rag-assistant) — Document Q&A system using LangChain + vector search, with retrieval-quality evaluation
 - ⚙️ [mlops-pipeline-demo](#) — End-to-end training → deployment → monitoring pipeline with MLflow, Docker, Kubernetes
 - 👁️ [vision-defect-detector](#) — Object detection with YOLO + evaluation metrics
 - 🔎 [explainable-risk-model](#) — Risk-prediction model with SHAP/LIME interpretability dashboard
